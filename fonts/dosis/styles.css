@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Dosis-Medium';
+  src: url(./Dosis-Medium.eot);
+  src: url(./Dosis-Medium.eot?#iefix) format('embedded-opentype'),
+       url(./Dosis-Medium.otf) format('otf'),
+       url(./Dosis-Medium.svg#Dosis-Medium) format('svg'),
+       url(./Dosis-Medium.woff) format('woff'),
+       url(./Dosis-Medium.woff2) format('woff2');
+}
